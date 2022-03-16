@@ -25,7 +25,7 @@
             <br>
             <input class="input-small span3" style="margin-bottom: 2px;" type="password" placeholder="Password">
             <br>
-            <button class="btn" style="margin-bottom: 2px;" type="submit">Login</button>
+            <button class="yt-button" style="margin-bottom: 2px;" type="submit">Login</button>
             <span class="help-block">No account? <a href="signup.php">Create one now</a>.</span>
           </form>
           </div>
