@@ -10,7 +10,7 @@
           <form action="login.php" class="pull-right">
             <input class="input-small" type="text" placeholder="Username">
             <input class="input-small" type="password" placeholder="Password">
-            <button class="btn" type="submit">Login</button>
+            <button class="yt-button dark" type="submit">Login</button>
           </form>
         </div>
       </div>
