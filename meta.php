@@ -10,6 +10,7 @@
 
     <!-- Le styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/yt-buttons.min.css" rel="stylesheet">
     <link href="font/stylesheet.css" rel="stylesheet">
     <style type="text/css">
       /* Override some defaults */
